@@ -62,7 +62,7 @@
     "url": "https://github.com/udia-software/graphql-postgres-subscriptions/issues"
   },
   "dependencies": {
-    "graphql-subscriptions": "^0.5.8",
+    "graphql-subscriptions": "^1.0.0",
     "iterall": "^1.2.2"
   },
   "devDependencies": {
